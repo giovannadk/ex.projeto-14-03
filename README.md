@@ -11,7 +11,7 @@ def hello():
     print("Olá, Mundo!")
  
 | Nome | Idade | Profissão|
-|-------------------------|
+|------|-------|----------|
 | Samir | 20 | desempregado|
 | Vitória | 19 | Gestora |
 | Yasmin | 18 | estudante |
