@@ -1,2 +1,5 @@
-# ex.projeto-14-03
-Projeto feito no dia 14/03 para ser entregue no dia 25/03
+**_# lista de funcionalidades_**
+md
+1. item um
+2. item dois
+3. item três
