@@ -4,11 +4,12 @@
 2. item dois
 3. item três
 
-para clonar um repositório use `git clone` 
-
 ```python
 def hello():
     print("Olá, Mundo!")
+
+para clonar um repositório use `git clone` 
+
  
 | Nome | Idade | Profissão|
 |------|-------|----------|
