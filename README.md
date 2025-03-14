@@ -1,5 +1,12 @@
 **_# lista de funcionalidades_**
-md
+
 1. item um
 2. item dois
 3. item três
+
+para clonar um repositório use `git clone` 
+
+```python
+def hello():
+    print("Olá, Mundo!")
+ 
